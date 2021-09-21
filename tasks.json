@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Matematicas",
+        "status": "Terminada"
+    },
+    {
+        "title": "Biologia",
+        "status": "En proceso"
+    },
+    {
+        "title": "Ingles",
+        "status": "Pendiente"
+    },
+    {
+        "title": "Historia",
+        "status": "Pendiente"
+    },
+    {
+        "title": "Fisica",
+        "status": "Pendiente"
+    }
+]
